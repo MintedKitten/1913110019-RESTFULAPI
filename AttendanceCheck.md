@@ -1,1 +1,1 @@
-Korndanai Ananjinda (Sky): Chapter 0
+Korndanai Ananjinda (Sky): Chapter 0 Course Introduction & Environment
