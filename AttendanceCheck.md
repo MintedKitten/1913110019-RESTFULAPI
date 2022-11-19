@@ -1,1 +1,1 @@
-Korndanai Ananjinda (Sky): Chapter 0 Course Introduction & Environment
+Korndanai Ananjinda (Sky): Chapter 2 - Basic NPM & Basic Modern Javascript
