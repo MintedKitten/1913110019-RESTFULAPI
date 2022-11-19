@@ -16,8 +16,8 @@ const showUserData = (user) => {
     hobby,
     province: { postcode },
   } = user;
-  return `My nickname is ${nickname}, My hobby is ${hobby}
-and my postcode is ${postcode}`;
+  return `"My nickname is ${nickname}, My hobby is ${hobby}
+and my postcode is ${postcode}"`;
 };
 
 console.log(showUserData(user));
